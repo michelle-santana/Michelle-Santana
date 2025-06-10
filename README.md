@@ -1,11 +1,10 @@
 # Oi! 👋
 
-Sou Michelle Santana, estudante de **Analise e Desenvolvimento de Sistemas** e desenvolvedora **Fullstack** ✨✨✨
+Sou Michelle Santana, desenvolvedora de sistemas senior **Fullstack** ✨✨✨
 
-> ⚡ Atualmente estou trabalhando em: Backend;
+> ⚡ Atualmente estou trabalhando em: Backend e Frontend
 
-> 🌱 Atualmente estou aprendendo: Microserviços em java, testes unitários.
-
+> 🌱 Atualmente estou aprendendo: phyton e outras linguagens 
 > 💬 Pergunte-me sobre: Jogos, animes, lógica de programação... ❤️
 
 *
